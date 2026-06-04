@@ -1,0 +1,8 @@
+Depot_ID,Depot_Name,Province,Capacity_Parcels_Per_Day
+D001,Amsterdam-West,Noord-Holland,65795
+D002,Rotterdam-Zuid,Zuid-Holland,50860
+D003,Utrecht-Centraal,Utrecht,126820
+D004,Eindhoven-Hub,Noord-Brabant,104886
+D005,Apeldoorn-Depot,Gelderland,56265
+D006,Zwolle-Dist,Overijssel,132386
+D007,Venlo-Gateway,Limburg,87194
